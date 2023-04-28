@@ -1,5 +1,42 @@
 ### Hi there 👋
 
+I am Charles Nikdel, currently student at 42 Le Havre and licensed physiotherapist.
+
+I currently live in Lille, France and aim to improve my skills !
+
+Here is my profile to check on my project, i try to update it as much as possible !
+
+## 42 Cursus
+
+[![cnikdel's 42 stats](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/stats?cursusId=21&coalitionId=331)](https://github.com/JaeSeoKim/badge42)
+
+### 42 Projects done
+
+Libft : [![cnikdel's 42 Libft Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3060775)](https://github.com/JaeSeoKim/badge42)
+
+Ft_printf : [![cnikdel's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074875)](https://github.com/JaeSeoKim/badge42)
+
+Get_next_line : [![cnikdel's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074877)](https://github.com/JaeSeoKim/badge42)
+
+Born2BeRoot : [![cnikdel's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074876)](https://github.com/JaeSeoKim/badge42)
+
+Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3079234)](https://github.com/JaeSeoKim/badge42)
+
+## Statistics
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnkdl)
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlesnkdl&theme=default)
+
+![image](https://github-readme-activity-graph.cyclic.app/graph?username=charlesnkdl&theme=github-compact)
+
+## Contacts
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Charles.nikdel@gmail.com
+
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{CharlesNkdl}1212%2Fhit-counter" />
+
 <!--
 **CharlesNkdl/CharlesNkdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
