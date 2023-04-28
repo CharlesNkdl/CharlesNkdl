@@ -28,8 +28,6 @@ Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/c
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlesnkdl&theme=default)
 
-![image](https://github-readme-activity-graph.cyclic.app/graph?username=charlesnkdl&theme=github-compact)
-
 ## Contacts
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Charles.nikdel@gmail.com
