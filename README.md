@@ -33,7 +33,7 @@ Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/c
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Charles.nikdel@gmail.com
 
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{CharlesNkdl}1212%2Fhit-counter" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharlesNkdl1212%2Fhit-counter" />
 
 <!--
 **CharlesNkdl/CharlesNkdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
