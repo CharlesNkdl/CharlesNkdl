@@ -22,6 +22,8 @@ Born2BeRoot : [![cnikdel's 42 Born2beroot Score](https://badge42.vercel.app/api/
 
 Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3079234)](https://github.com/JaeSeoKim/badge42)
 
+Exam 02 : [![cnikdel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3085106)](https://github.com/JaeSeoKim/badge42)
+
 ## Statistics
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnkdl)
