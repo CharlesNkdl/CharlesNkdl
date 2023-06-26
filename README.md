@@ -24,6 +24,12 @@ Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/c
 
 Exam 02 : [![cnikdel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3085106)](https://github.com/JaeSeoKim/badge42)
 
+Fract_ol : [![cnikdel's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3092021)](https://github.com/JaeSeoKim/badge42)
+
+Minitalk : [![cnikdel's 42 minitalk Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3090515)](https://github.com/JaeSeoKim/badge42)
+
+Philosophers : [![cnikdel's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3130063)](https://github.com/JaeSeoKim/badge42)
+
 ## Statistics
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnkdl)
