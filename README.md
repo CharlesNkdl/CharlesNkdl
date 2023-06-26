@@ -12,23 +12,23 @@ Here is my profile to check on my project, i try to update it as much as possibl
 
 ### 42 Projects done
 
-Libft : [![cnikdel's 42 Libft Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3060775)](https://github.com/JaeSeoKim/badge42)
+1) Libft : [![cnikdel's 42 Libft Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3060775)](https://github.com/JaeSeoKim/badge42)
 
-Ft_printf : [![cnikdel's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074875)](https://github.com/JaeSeoKim/badge42)
+2) Ft_printf : [![cnikdel's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074875)](https://github.com/JaeSeoKim/badge42)
 
-Get_next_line : [![cnikdel's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074877)](https://github.com/JaeSeoKim/badge42)
+3) Get_next_line : [![cnikdel's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074877)](https://github.com/JaeSeoKim/badge42)
 
-Born2BeRoot : [![cnikdel's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074876)](https://github.com/JaeSeoKim/badge42)
+4) Born2BeRoot : [![cnikdel's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074876)](https://github.com/JaeSeoKim/badge42)
 
-Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3079234)](https://github.com/JaeSeoKim/badge42)
+5) Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3079234)](https://github.com/JaeSeoKim/badge42)
 
-Exam 02 : [![cnikdel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3085106)](https://github.com/JaeSeoKim/badge42)
+6) Exam 02 : [![cnikdel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3085106)](https://github.com/JaeSeoKim/badge42)
 
-Fract_ol : [![cnikdel's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3092021)](https://github.com/JaeSeoKim/badge42)
+7) Fract_ol : [![cnikdel's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3092021)](https://github.com/JaeSeoKim/badge42)
 
-Minitalk : [![cnikdel's 42 minitalk Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3090515)](https://github.com/JaeSeoKim/badge42)
+8) Minitalk : [![cnikdel's 42 minitalk Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3090515)](https://github.com/JaeSeoKim/badge42)
 
-Philosophers : [![cnikdel's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3130063)](https://github.com/JaeSeoKim/badge42)
+9) Philosophers : [![cnikdel's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3130063)](https://github.com/JaeSeoKim/badge42)
 
 ## Statistics
 
