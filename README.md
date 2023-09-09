@@ -8,27 +8,14 @@ Here is my profile to check on my project, i try to update it as much as possibl
 
 ## 42 Cursus
 
-[![cnikdel's 42 stats](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/stats?cursusId=21&coalitionId=331)](https://github.com/JaeSeoKim/badge42)
+| Project            | Image | Lien | Project            | Image | Lien |
+|--------------------|-------|------|--------------------|-------|------|
+| Libft              | ![libftn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/efaea166-2b48-49cb-bc88-021d2a04deab)| [Project](https://github.com/CharlesNkdl/Libft_42cursus) | Minishell          | ![minishelln](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/024005f3-6995-452f-820a-afda1dbc57f3) | [Project](https://github.com/CharlesNkdl/Minishell_42Project) |
+| Ft_printf          | ![ft_printfn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/2efaa2f2-f9c1-45c3-83a4-1120607cdeeb)| [Project](https://github.com/CharlesNkdl/Ft_printf_42cursus) | Fract_ol           | ![fract-oln](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/e0c15603-bc42-43a3-908b-8119cf506294) | [Project](https://github.com/CharlesNkdl/Fract_ol_42cursus) |
+| Get_next_line      | ![get_next_linen](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/98a98fbc-1f33-4cb7-b57d-90ee605d68e8) | [Project](https://github.com/CharlesNkdl/get_next_line_42cursus) |  Minitalk           | ![minitalkn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/d2a6e326-556f-4fb1-ad3e-fb1f403be886) | [Project](https://github.com/CharlesNkdl/Minitalk_42cursus) |
+| Born2BeRoot        | ![born2berootn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/3968a4cc-6744-4399-8081-d0b27bfbc59a) | [Project](https://github.com/CharlesNkdl/Born2BeRoot_42cursus) | Philosophers       | ![philosophersn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/20ace39c-72fe-4a45-92a7-294660a81349) | [Project](https://github.com/CharlesNkdl/Philosophers_42cursus) |
+| Push_swap          | ![push_swapn](https://github.com/CharlesNkdl/CharlesNkdl/assets/100453363/c50ea97d-01a9-4d30-a1a5-a64e6d528052) | [Project](https://github.com/CharlesNkdl/Push_swap_42cursus) |
 
-### 42 Projects done
-
-1) Libft : [![cnikdel's 42 Libft Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3060775)](https://github.com/JaeSeoKim/badge42)
-
-2) Ft_printf : [![cnikdel's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074875)](https://github.com/JaeSeoKim/badge42)
-
-3) Get_next_line : [![cnikdel's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074877)](https://github.com/JaeSeoKim/badge42)
-
-4) Born2BeRoot : [![cnikdel's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3074876)](https://github.com/JaeSeoKim/badge42)
-
-5) Push_swap : [![cnikdel's 42 push_swap Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3079234)](https://github.com/JaeSeoKim/badge42)
-
-6) Exam 02 : [![cnikdel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3085106)](https://github.com/JaeSeoKim/badge42)
-
-7) Fract_ol : [![cnikdel's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3092021)](https://github.com/JaeSeoKim/badge42)
-
-8) Minitalk : [![cnikdel's 42 minitalk Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3090515)](https://github.com/JaeSeoKim/badge42)
-
-9) Philosophers : [![cnikdel's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clh10ft22001608l9m52onx9h/project/3130063)](https://github.com/JaeSeoKim/badge42)
 
 ## Statistics
 
