@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Charles Nikdel, currently student at 42 Le Havre, Centrale Lille, ILIS and licensed physiotherapist.
+Master " IA Management in Health"
 
 I currently live in Lille, France and aim to improve my skills !
 
