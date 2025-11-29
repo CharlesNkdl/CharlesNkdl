@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Charles, 42 Le Havre, Centrale Lille, University of Lille and licensed physiotherapist.
+I am Charles, Studied at : Ecole Centrale de Lille, University of Lille, 42 Le Havre.
+Also was a licensed physiotherapist.
 
-Currently in internship at Lille.
+Currently working as a developer in Lille, France.
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Charles.nikdel@gmail.com
 
